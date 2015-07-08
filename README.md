@@ -1,6 +1,6 @@
-detroit2014
+detroit2015
 ===========
 
-Proceedings for API Craft Conference v2 - Detroit 2014
+Proceedings for API Craft Conference v3 - Detroit 2015
 
-The proceedings wiki is [here](https://github.com/apicraft/detroit2014/wiki).
+The proceedings wiki is [here](https://github.com/apicraft/detroit2015/wiki).
