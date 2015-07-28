@@ -104,7 +104,7 @@ grab a piece of paper and a marker.
 
 (If you have more than one issue, take several pieces of paper.)
 
-Write down a short title and sign your name.
+Write down a short title, sign your name and then circle your name.
 
 Then stand in front of the group and say, 
 
@@ -118,9 +118,9 @@ Nothing but THE FACTS:
 * your issue
 * and your name
 
-After you have announced your theme, take your piece of paper and tape it up on a blank whiteboard.
+After you have announced your theme, take your piece of paper and walk it to the whiteboard.
 
-On your way, grab a Post It note from the whiteboards, which will give you a time and place for your session, attach it to your paper, and put the paper on the blank whiteboard for day 1 or day 2.
+Grab a Post It note, which will give you a day, time and place for your session, attach it to your paper, and put the paper on the blank whiteboard for day 1 or day 2.
 
 When you've done that, return to your seat.
 
@@ -148,7 +148,7 @@ QUESTIONS create an open space in which good thinking can happen.
 
 So, if all you have is a question, that is a great place to start.
 
-Don’t worry if you have no PowerPoints, or a prepared text (although that's fine too) – just state your question, and I believe you will find that our community will join you in finding some answers that really work.
+Don’t worry if you have no PowerPoints, or a prepared text (although that's fine too) – just state your question, and our community will join you in finding some answers that really work.
 
 ## Responsibility
 
@@ -414,6 +414,7 @@ Ok. It's time to go to work. Let’s jump in!
 * You'll take a piece of paper
   * inscribe the title
   * sign your name
+  * circle your name
   * and announce your offering to the group: 
   * “My issue is... My name is....” 
 * Decide when and where your group will gather
@@ -494,7 +495,7 @@ And if, NO, then the two sessions remain as originally posted.
 
 ## Proceedings
 
-Conveners of sessions, we will have a "how-to" session on creating the proceedings for your sessions by that wall at 10:20am.
+Conveners of sessions, we will have a "how-to" session on creating the proceedings for your sessions by that TV at 10:20am.
 
 ## Public Safety 
 
